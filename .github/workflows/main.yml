@@ -11,17 +11,16 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
-
-      - name: Fetch All Commits
-        run: git fetch --prune --unshallow
+        with:
+          fetch-depth: 0 # Fetch all history for all branches and tags
 
       - name: Calculate Main Branch Commits
         id: commits
-        run: echo "::set-output name=count::$(git rev-list --count origin/main)"
+        run: echo "::set-output name=count::$(git rev-list --count HEAD)"
 
       - name: Update README.md
         run: |
-          sed -i "s/I have worked on the main branch of my repositories `.*` times./I have worked on the main branch of my repositories `${{ steps.commits.outputs.count }}` times./" README.md
+          sed -i "s/I have worked on the main branch of my repositories \`.*\` times./I have worked on the main branch of my repositories \`${{ steps.commits.outputs.count }}\` times./" README.md
 
       - name: Commit and Push Changes
         run: |
@@ -31,4 +30,4 @@ jobs:
           git commit -m "Update main branch commit count"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.SAUMITRATOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
