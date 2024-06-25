@@ -9,6 +9,9 @@ I'm a passionate React JS developer with three years of experience, currently wo
 - 😄 Pronouns: he/him
 - 🌍 Based in: Indore, India
 
+## 📊 Main Branch Activity
+I have worked on the main branch of my repositories `X` times.
+
 ## 📊 GitHub Stats
 ![Saumitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=saumitra2308&show_icons=true&theme=radical)
 
