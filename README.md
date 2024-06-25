@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Saumitra Shukla 👋
 
-<!--
-**saumitra2308/saumitra2308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate React JS developer with three years of experience, currently working as a Senior Frontend Developer at Retvens Services.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning advanced Next.js and improving my backend skills with Node.js, Express.js and MongoDB
+- 👯 I’m looking to collaborate on React and JavaScript projects
+- 💬 Ask me about React, Next.js, or anything frontend-related
+- 📫 How to reach me: [contactwithsaumitra@gmail.com](mailto:contactwithsaumitra@gmail.com)
+- 😄 Pronouns: he/him
+- 🌍 Based in: Indore, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Saumitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=saumitra2308&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=saumitra2308&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 💻 Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## 🔥 My Contribution Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saumitra2308&theme=radical)](https://git.io/streak-stats)
+
+## 🗂️ Highlighted Repositories
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=saumitra2308&repo=my-latest-project&theme=radical)](https://github.com/saumitra2308/my-latest-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=saumitra2308&repo=another-project&theme=radical)](https://github.com/saumitra2308/another-project)
+
+## 📈 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saumitra2308&layout=compact&theme=radical)](https://github.com/saumitra2308)
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saumitrashukla23)
