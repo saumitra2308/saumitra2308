@@ -15,8 +15,6 @@ I have worked on the main branch of my repositories `55` times.
 ## 📊 GitHub Stats
 ![Saumitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=saumitra2308&show_icons=true&theme=radical)
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=saumitra2308&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 💻 Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
