@@ -28,12 +28,6 @@ I have worked on the main branch of my repositories `55` times.
 ## 🔥 My Contribution Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saumitra2308&theme=radical)](https://git.io/streak-stats)
 
-## 🗂️ Highlighted Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=saumitra2308&repo=my-latest-project&theme=radical)](https://github.com/saumitra2308/my-latest-project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=saumitra2308&repo=another-project&theme=radical)](https://github.com/saumitra2308/another-project)
-
-## 📈 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saumitra2308&layout=compact&theme=radical)](https://github.com/saumitra2308)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saumitrashukla23)
